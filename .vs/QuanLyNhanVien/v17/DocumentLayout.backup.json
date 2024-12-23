@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\quanlynhanvien\\fsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\fsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|c:\\users\\hi\\onedrive\\m\u00E1y t\u00EDnh\\doantinhoc_buitantin\\phanii_quanlynhanvien\\quanlynhanvien\\fsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\fsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\quanlynhanvien\\fthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\fthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\quanlynhanvien\\fthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\fthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\quanlynhanvien\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\quanlynhanvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\quanlynhanvien\\fquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\fquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\quanlynhanvien\\fquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\fquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\quanlynhanvien\\truycapdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414ECE8F-68A3-478C-BA0B-7B02B3A9369A}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\truycapdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fSuaNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fSuaNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\fSuaNhanVien.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fSuaNhanVien.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\fSuaNhanVien.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:07:28.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fSuaNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fSuaNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\fSuaNhanVien.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fSuaNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVien\\fSuaNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:07:08.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TruyCapDuLieu.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\TruyCapDuLieu.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\TruyCapDuLieu.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\TruyCapDuLieu.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\TruyCapDuLieu.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:32:58.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fThemNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fThemNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\fThemNhanVien.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fThemNhanVien.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\fThemNhanVien.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:45:59.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fQuanLyNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\fQuanLyNhanVien.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fQuanLyNhanVien.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\fQuanLyNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:44:30.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\DanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\DanhSachNhanVien.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\DanhSachNhanVien.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\DanhSachNhanVien.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwEkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:39:28.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\NhanVien.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\NhanVien.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:39:21.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fThemNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fThemNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\fThemNhanVien.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fThemNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVien\\fThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:38:48.076Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fQuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\fQuanLyNhanVien.cs",
+              "ToolTip": "C:\\Users\\Hi\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnTinHoc_BuiTanTin\\PhanII_QuanLyNhanVien\\QuanLyNhanVien\\fQuanLyNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVien\\fQuanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:38:14.127Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
